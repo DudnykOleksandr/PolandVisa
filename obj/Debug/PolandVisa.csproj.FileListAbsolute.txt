@@ -11,3 +11,14 @@ C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.Properties.Resou
 C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.csproj.GenerateResource.Cache
 C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.exe
 C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.pdb
+C:\My staff\Projects\PolandVisa\trunk\bin\Debug\PolandVisa.exe.config
+C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.exe
+C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.pdb
+C:\My staff\Projects\PolandVisa\trunk\bin\Debug\PolandVisa.exe
+C:\My staff\Projects\PolandVisa\trunk\bin\Debug\PolandVisa.pdb
+C:\My staff\Projects\PolandVisa\trunk\bin\Debug\WebDriver.xml
+C:\My staff\Projects\PolandVisa\trunk\bin\Debug\WebDriver.Support.xml
+C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.csprojResolveAssemblyReference.cache
+C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.Main.resources
+C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.Properties.Resources.resources
+C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.csproj.GenerateResource.Cache
