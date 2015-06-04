@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
@@ -12,7 +13,18 @@ namespace PolandVisa
         public Main()
         {
             InitializeComponent();
+            //Хмельницький - 15
+            //Вінниця - 15
 
+            var task1 = new Task(() => CheckVisaDays("15", this));
+            task1.Start();
+
+            var task2 = new Task(() => CheckVisaDays("17", this));
+            task2.Start();
+        }
+
+        private static void CheckVisaDays(string district, Form main)
+        {
             var player = new System.Media.SoundPlayer();
             player.SoundLocation = @"C:\Users\odu\Music\strings.wav";
 
@@ -39,7 +51,8 @@ namespace PolandVisa
 
                 driver.SwitchTo().DefaultContent();
                 driver.SwitchTo().Frame(0);
-                new SelectElement(new WebDriverWait(driver, TimeSpan.FromMinutes(10)).Until(drv => driver.FindElement(By.Id("ctl00_plhMain_cboVAC")))).SelectByValue("17");
+
+                new SelectElement(new WebDriverWait(driver, TimeSpan.FromMinutes(10)).Until(drv => driver.FindElement(By.Id("ctl00_plhMain_cboVAC")))).SelectByValue(district);
 
                 driver.SwitchTo().DefaultContent();
                 driver.SwitchTo().Frame(0);
@@ -79,10 +92,10 @@ namespace PolandVisa
             player.Play();
             MessageBox.Show("Gotcha", "Success");
 
-            TopMost = true;
-            Focus();
-            BringToFront();
-            Activate();
+            main.TopMost = true;
+            main.Focus();
+            main.BringToFront();
+            main.Activate();
         }
     }
 }

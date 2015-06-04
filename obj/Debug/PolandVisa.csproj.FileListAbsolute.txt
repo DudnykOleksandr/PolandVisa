@@ -22,3 +22,14 @@ C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.csprojResolveAssembly
 C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.Main.resources
 C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.Properties.Resources.resources
 C:\My staff\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.csproj.GenerateResource.Cache
+D:\Projects\PolandVisa\trunk\bin\Debug\PolandVisa.exe.config
+D:\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.exe
+D:\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.pdb
+D:\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.csprojResolveAssemblyReference.cache
+D:\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.Main.resources
+D:\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.Properties.Resources.resources
+D:\Projects\PolandVisa\trunk\obj\Debug\PolandVisa.csproj.GenerateResource.Cache
+D:\Projects\PolandVisa\trunk\bin\Debug\PolandVisa.exe
+D:\Projects\PolandVisa\trunk\bin\Debug\PolandVisa.pdb
+D:\Projects\PolandVisa\trunk\bin\Debug\WebDriver.xml
+D:\Projects\PolandVisa\trunk\bin\Debug\WebDriver.Support.xml
