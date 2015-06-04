@@ -1,0 +1,13 @@
+C:\My staff\Projects\PolandVisa\PolandVisa\bin\Debug\PolandVisa.exe.config
+C:\My staff\Projects\PolandVisa\PolandVisa\bin\Debug\PolandVisa.exe
+C:\My staff\Projects\PolandVisa\PolandVisa\bin\Debug\PolandVisa.pdb
+C:\My staff\Projects\PolandVisa\PolandVisa\bin\Debug\WebDriver.dll
+C:\My staff\Projects\PolandVisa\PolandVisa\bin\Debug\WebDriver.Support.dll
+C:\My staff\Projects\PolandVisa\PolandVisa\bin\Debug\WebDriver.xml
+C:\My staff\Projects\PolandVisa\PolandVisa\bin\Debug\WebDriver.Support.xml
+C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.csprojResolveAssemblyReference.cache
+C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.Main.resources
+C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.Properties.Resources.resources
+C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.csproj.GenerateResource.Cache
+C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.exe
+C:\My staff\Projects\PolandVisa\PolandVisa\obj\Debug\PolandVisa.pdb
